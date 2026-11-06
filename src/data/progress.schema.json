@@ -1,0 +1,280 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "format",
+    "version",
+    "exportedAt",
+    "user"
+  ],
+  "properties": {
+    "format": {
+      "const": "english11-speaking-progress"
+    },
+    "version": {
+      "const": 1
+    },
+    "exportedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "user": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "version",
+        "prefs",
+        "phrases",
+        "cards"
+      ],
+      "properties": {
+        "version": {
+          "const": 1
+        },
+        "prefs": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "section",
+            "mode",
+            "unitId",
+            "activityId",
+            "index",
+            "customIds"
+          ],
+          "properties": {
+            "section": {
+              "enum": [
+                "practice",
+                "daily"
+              ]
+            },
+            "mode": {
+              "enum": [
+                "daily",
+                "custom"
+              ]
+            },
+            "unitId": {
+              "enum": [
+                "U1",
+                "U2",
+                "U3",
+                "U4",
+                "U5",
+                "U6",
+                "U7",
+                "U8",
+                "U9",
+                "U10"
+              ]
+            },
+            "index": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "customIds": {
+              "type": "array",
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9_-]{1,100}$"
+              }
+            },
+            "hintLevel": {
+              "enum": [
+                "guided",
+                "starters",
+                "meaning"
+              ],
+              "default": "meaning",
+              "description": "Optional in legacy v1 files; missing values migrate to meaning-only."
+            },
+            "activityId": {
+              "type": "string",
+              "pattern": "^U[1-9][0-9]*-A[1-9][0-9]*$",
+              "description": "A known Speaking activity in the selected Unit. Legacy v1 lesson/index positions are migrated before validation."
+            }
+          }
+        },
+        "phrases": {
+          "type": "array",
+          "maxItems": 1000,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "date",
+              "topic",
+              "english",
+              "meaning",
+              "reply",
+              "drafts"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9_-]{1,100}$"
+              },
+              "date": {
+                "type": "string",
+                "format": "date"
+              },
+              "topic": {
+                "type": "string",
+                "maxLength": 200
+              },
+              "english": {
+                "type": "string",
+                "maxLength": 10000,
+                "minLength": 1
+              },
+              "meaning": {
+                "type": "string",
+                "maxLength": 10000
+              },
+              "reply": {
+                "type": "string",
+                "maxLength": 10000
+              },
+              "drafts": {
+                "type": "array",
+                "maxItems": 100,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": [
+                    "id",
+                    "front",
+                    "back",
+                    "cardId"
+                  ],
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "pattern": "^[A-Za-z0-9_-]{1,100}$"
+                    },
+                    "front": {
+                      "type": "string",
+                      "maxLength": 10000
+                    },
+                    "back": {
+                      "type": "string",
+                      "maxLength": 10000
+                    },
+                    "cardId": {
+                      "anyOf": [
+                        {
+                          "type": "string",
+                          "pattern": "^[A-Za-z0-9_-]{1,100}$"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "cards": {
+          "type": "array",
+          "maxItems": 3000,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "front",
+              "back",
+              "createdAt",
+              "updatedAt",
+              "schedule"
+            ],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9_-]{1,100}$"
+              },
+              "front": {
+                "type": "string",
+                "maxLength": 10000,
+                "minLength": 1
+              },
+              "back": {
+                "type": "string",
+                "maxLength": 10000,
+                "minLength": 1
+              },
+              "createdAt": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "updatedAt": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "schedule": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "stage",
+                  "step",
+                  "interval",
+                  "ease",
+                  "reps",
+                  "lapses",
+                  "due"
+                ],
+                "properties": {
+                  "stage": {
+                    "enum": [
+                      "new",
+                      "learning",
+                      "review",
+                      "relearning"
+                    ]
+                  },
+                  "step": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "interval": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 36500
+                  },
+                  "ease": {
+                    "type": "number",
+                    "minimum": 1.3,
+                    "maximum": 3.5
+                  },
+                  "reps": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 1000000
+                  },
+                  "lapses": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 1000000
+                  },
+                  "due": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "4 MiB UTF-8 maximum. Runtime validator additionally checks unique IDs, calendar validity, links, schedule consistency and bank/position references."
+}

@@ -1,0 +1,3350 @@
+[
+  {
+    "id": "U1-S01",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Sequence instructions",
+    "english": "How should you stand before starting a star jump?",
+    "vietnamese": "Bạn nên đứng như thế nào trước khi bắt đầu động tác bật nhảy hình sao?",
+    "hint": "tay hai bên → chân hơi mở",
+    "model": "First, stand with your arms down by your sides and your feet slightly apart.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.1",
+      "printedPage": 12,
+      "pdfPage": 14,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "arms",
+        "sides",
+        "feet",
+        "apart"
+      ],
+      "frame": "First, … with … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "stand",
+        "your arms down by your sides",
+        "your feet slightly apart"
+      ]
+    }
+  },
+  {
+    "id": "U1-S02",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Give a direction",
+    "english": "What should you do next in a star jump?",
+    "vietnamese": "Bạn nên làm gì tiếp theo trong động tác bật nhảy hình sao?",
+    "hint": "bật nhảy → tay và chân dang ra",
+    "model": "Next, jump with your feet apart and your arms spread out.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.2",
+      "printedPage": 12,
+      "pdfPage": 14,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "jump",
+        "feet",
+        "arms"
+      ],
+      "frame": "Next, … with … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "jump",
+        "your feet apart",
+        "your arms spread out"
+      ]
+    }
+  },
+  {
+    "id": "U1-S03",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Describe a movement",
+    "english": "What should your arms and legs do while you are in the air?",
+    "vietnamese": "Tay và chân của bạn nên làm gì khi bạn đang ở trên không?",
+    "hint": "chân rộng hơn vai → hình ngôi sao",
+    "model": "Open your legs wider than your shoulders and move your arms out to make a star shape.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.3",
+      "printedPage": 12,
+      "pdfPage": 14,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "legs",
+        "shoulders",
+        "arms",
+        "star shape"
+      ],
+      "frame": "Open … and move … to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "your legs wider than your shoulders",
+        "your arms out",
+        "make a star shape"
+      ]
+    }
+  },
+  {
+    "id": "U1-S04",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Complete a sequence",
+    "english": "How do you finish a star jump?",
+    "vietnamese": "Bạn kết thúc một lần bật nhảy hình sao như thế nào?",
+    "hint": "về vị trí đầu → lặp lại",
+    "model": "Finally, jump back to your starting position and repeat.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.4",
+      "printedPage": 12,
+      "pdfPage": 14,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "jump back",
+        "starting position",
+        "repeat"
+      ],
+      "frame": "Finally, … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "jump back to your starting position",
+        "repeat"
+      ]
+    }
+  },
+  {
+    "id": "U1-S05",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Sequence a routine",
+    "english": "Give the first part of the exercise routine: star jumps for 20 seconds, a one-minute rest, then standing on one leg for 10 seconds.",
+    "vietnamese": "Hãy hướng dẫn phần đầu của bài tập: bật nhảy hình sao 20 giây, nghỉ một phút, rồi đứng một chân 10 giây.",
+    "hint": "bật nhảy → nghỉ → đứng một chân",
+    "model": "First, do star jumps for twenty seconds. Then rest for one minute. Next, stand on one leg for ten seconds.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 13,
+      "pdfPage": 15,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "star jumps",
+        "twenty seconds",
+        "one minute",
+        "one leg"
+      ],
+      "frame": "First, …. Then …. Next, ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "do star jumps for twenty seconds",
+        "rest for one minute",
+        "stand on one leg for ten seconds"
+      ]
+    }
+  },
+  {
+    "id": "U1-S06",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Continue instructions",
+    "english": "Continue the routine: repeat on the opposite side for 10 seconds, rest for one minute, do squats for 30 seconds, rest for one minute, then run on the spot for 20 seconds.",
+    "vietnamese": "Hãy hướng dẫn phần tiếp theo: đổi bên 10 giây, nghỉ một phút, squat 30 giây, nghỉ một phút, rồi chạy tại chỗ 20 giây.",
+    "hint": "đổi bên → nghỉ → squat → nghỉ → chạy",
+    "model": "Repeat on the opposite side for ten seconds. After a one-minute rest, do squats for thirty seconds. Rest for another minute. Finally, run on the spot for twenty seconds.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 13,
+      "pdfPage": 15,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "opposite side",
+        "ten seconds",
+        "squats",
+        "thirty seconds",
+        "run on the spot"
+      ],
+      "frame": "Repeat …. After …, …. Rest …. Finally, ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "on the opposite side for ten seconds",
+        "a one-minute rest",
+        "do squats for thirty seconds",
+        "for another minute",
+        "run on the spot for twenty seconds"
+      ]
+    }
+  },
+  {
+    "id": "U1-S07",
+    "unitId": "U1",
+    "topic": "Giving instructions for an exercise routine",
+    "goal": "Guide a listener",
+    "english": "Talk me through the whole exercise routine so I can follow your instructions.",
+    "vietnamese": "Hãy hướng dẫn tôi toàn bộ bài tập để tôi có thể làm theo.",
+    "hint": "giới thiệu → thứ tự → thời lượng",
+    "model": "You can follow this simple routine. First, do star jumps for twenty seconds and rest for a minute. Stand on one leg for ten seconds, then repeat on the other side. Rest for a minute and do squats for thirty seconds. Rest for another minute, then run on the spot for twenty seconds.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 13,
+      "pdfPage": 15,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "star jumps",
+        "twenty seconds",
+        "one leg",
+        "other side",
+        "squats",
+        "run on the spot"
+      ],
+      "frame": "You can follow …. First, … and …. Stand …, then …. Rest … and …. Rest …, then ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "this simple routine",
+        "do star jumps for twenty seconds",
+        "rest for a minute",
+        "on one leg for ten seconds",
+        "repeat on the other side",
+        "for a minute",
+        "do squats for thirty seconds",
+        "for another minute",
+        "run on the spot for twenty seconds"
+      ]
+    }
+  },
+  {
+    "id": "U2-S01",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Describe family members",
+    "english": "Do you live with your extended family?",
+    "vietnamese": "Bạn có sống cùng đại gia đình không?",
+    "hint": "có/không → những người sống cùng",
+    "model": "Yes, I do. I live with my grandparents, my parents and my younger brother.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "live with",
+        "grandparents",
+        "parents",
+        "younger brother"
+      ],
+      "frame": "Yes, I do. I live with ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "my grandparents, my parents and my younger brother"
+      ]
+    }
+  },
+  {
+    "id": "U2-S02",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Compare generations",
+    "english": "Have you noticed any differences between the generations?",
+    "vietnamese": "Bạn có nhận thấy sự khác biệt nào giữa các thế hệ không?",
+    "hint": "quan điểm → công nghệ",
+    "model": "Yes. My grandparents prefer traditional ways of doing things, while my parents are more open to new ideas.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "grandparents",
+        "traditional ways",
+        "parents",
+        "new ideas"
+      ],
+      "frame": "Yes. My grandparents prefer …, while my parents are ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "traditional ways of doing things",
+        "more open to new ideas"
+      ]
+    }
+  },
+  {
+    "id": "U2-S03",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Continue a conversation",
+    "english": "What about your parents?",
+    "vietnamese": "Còn bố mẹ bạn thì sao?",
+    "hint": "cởi mở → lắng nghe",
+    "model": "My parents are open to new ideas. They usually listen when I explain my choices.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "parents",
+        "new ideas",
+        "listen",
+        "choices"
+      ],
+      "frame": "My parents are …. They usually … when ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "open to new ideas",
+        "listen",
+        "I explain my choices"
+      ]
+    }
+  },
+  {
+    "id": "U2-S04",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Start a conversation",
+    "english": "What kind of family do you have?",
+    "vietnamese": "Gia đình bạn thuộc kiểu gia đình nào?",
+    "hint": "gia đình nhỏ → thành viên",
+    "model": "I have a nuclear family. I live with my parents and my sister.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, tips",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "adapted",
+      "adaptation": "Removed the model interlocutor name to address one learner."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "nuclear family",
+        "parents",
+        "sister"
+      ],
+      "frame": "I have a …. I live with ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "nuclear family",
+        "my parents and my sister"
+      ]
+    }
+  },
+  {
+    "id": "U2-S05",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Express an opinion",
+    "english": "Do you think there are any differences between the generations of your family?",
+    "vietnamese": "Bạn có nghĩ có sự khác biệt nào giữa các thế hệ trong gia đình mình không?",
+    "hint": "thói quen → cách suy nghĩ",
+    "model": "Yes. We have different habits and opinions, but we try to understand each other.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, tips",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "adapted",
+      "adaptation": "Removed the model interlocutor name to address one learner."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "habits",
+        "opinions",
+        "understand"
+      ],
+      "frame": "Yes. We have …, but we try to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "different habits and opinions",
+        "understand each other"
+      ]
+    }
+  },
+  {
+    "id": "U2-S06",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Describe your generation",
+    "english": "What do you think about your generation?",
+    "vietnamese": "Bạn nghĩ gì về thế hệ của mình?",
+    "hint": "công nghệ → quyết định riêng",
+    "model": "I think my generation is good at using technology. We also want to make our own decisions.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, tips",
+      "printedPage": 22,
+      "pdfPage": 24,
+      "origin": "adapted",
+      "adaptation": "Removed the model interlocutor name to address one learner."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "generation",
+        "technology",
+        "decisions"
+      ],
+      "frame": "I think my generation is …. We also ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "good at using technology",
+        "want to make our own decisions"
+      ]
+    }
+  },
+  {
+    "id": "U2-S07",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Compare family habits",
+    "english": "How do the generations in your family differ in their attitudes to change and electronic devices?",
+    "vietnamese": "Các thế hệ trong gia đình bạn khác nhau như thế nào về thái độ với sự thay đổi và thiết bị điện tử?",
+    "hint": "ông bà: quen thuộc → bố mẹ: cởi mở → con: công nghệ",
+    "model": "My grandparents prefer familiar routines. My parents welcome useful changes. My sister and I enjoy learning to use new electronic devices.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 23,
+      "pdfPage": 25,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "grandparents",
+        "familiar routines",
+        "parents",
+        "electronic devices"
+      ],
+      "frame": "My grandparents …. My parents …. My sister and I ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "prefer familiar routines",
+        "welcome useful changes",
+        "enjoy learning to use new electronic devices"
+      ]
+    }
+  },
+  {
+    "id": "U2-S08",
+    "unitId": "U2",
+    "topic": "Talking about different generations",
+    "goal": "Explain a generation gap",
+    "english": "What are the most common generation gaps in your families?",
+    "vietnamese": "Những khoảng cách thế hệ phổ biến nhất trong gia đình các bạn là gì?",
+    "hint": "thời gian màn hình → quần áo → trao đổi",
+    "model": "In my family, the main differences are about screen time and clothes. My parents worry about my health, while I want more freedom. Talking calmly helps us understand each other.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 23,
+      "pdfPage": 25,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "screen time",
+        "clothes",
+        "health",
+        "freedom",
+        "Talking calmly"
+      ],
+      "frame": "In my family, the main differences are about …. My parents worry about …, while I …. Talking calmly helps us ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "screen time and clothes",
+        "my health",
+        "want more freedom",
+        "understand each other"
+      ]
+    }
+  },
+  {
+    "id": "U3-S01",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Describe future transport",
+    "english": "How might transport change in smart and sustainable cities?",
+    "vietnamese": "Giao thông có thể thay đổi như thế nào ở các thành phố thông minh và bền vững?",
+    "hint": "công cộng → ít khí thải",
+    "model": "People may use public transport instead of private vehicles. Electric buses could make journeys cleaner and easier.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, transport",
+      "printedPage": 32,
+      "pdfPage": 34,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "public transport",
+        "private vehicles",
+        "Electric buses",
+        "cleaner"
+      ],
+      "frame": "People may … instead of …. Electric buses could make ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "use public transport",
+        "private vehicles",
+        "journeys cleaner and easier"
+      ]
+    }
+  },
+  {
+    "id": "U3-S02",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Describe infrastructure",
+    "english": "What might future buildings and street infrastructure be like?",
+    "vietnamese": "Các tòa nhà và cơ sở hạ tầng đường phố trong tương lai có thể sẽ như thế nào?",
+    "hint": "tòa nhà xanh → cảm biến",
+    "model": "Green skyscrapers may replace old buildings. Street sensors could provide information to help people make better decisions.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, infrastructure",
+      "printedPage": 32,
+      "pdfPage": 34,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Green skyscrapers",
+        "old buildings",
+        "Street sensors",
+        "information"
+      ],
+      "frame": "Green skyscrapers may replace …. Street sensors could provide … to help people ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "old buildings",
+        "information",
+        "make better decisions"
+      ]
+    }
+  },
+  {
+    "id": "U3-S03",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Explain benefits",
+    "english": "How might living conditions improve in future cities?",
+    "vietnamese": "Điều kiện sống có thể cải thiện như thế nào ở các thành phố tương lai?",
+    "hint": "môi trường sạch → AI hỗ trợ",
+    "model": "A cleaner environment could improve people's health. AI could also help with everyday tasks.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, living conditions",
+      "printedPage": 32,
+      "pdfPage": 34,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "cleaner environment",
+        "health",
+        "AI",
+        "everyday tasks"
+      ],
+      "frame": "A cleaner environment could improve …. AI could also help with ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "people's health",
+        "everyday tasks"
+      ]
+    }
+  },
+  {
+    "id": "U3-S04",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Make a prediction",
+    "english": "What do you think transport will be like in the cities of the future?",
+    "vietnamese": "Bạn nghĩ giao thông ở các thành phố tương lai sẽ như thế nào?",
+    "hint": "ít xe riêng → giao thông công cộng",
+    "model": "I think public transport will be cleaner and more convenient. There may be fewer private vehicles.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2.1",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "public transport",
+        "cleaner",
+        "convenient",
+        "private vehicles"
+      ],
+      "frame": "I think public transport will be …. There may be ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "cleaner and more convenient",
+        "fewer private vehicles"
+      ]
+    }
+  },
+  {
+    "id": "U3-S05",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Explain a prediction",
+    "english": "So, how will people travel in the city?",
+    "vietnamese": "Vậy mọi người sẽ đi lại trong thành phố như thế nào?",
+    "hint": "xe buýt → tàu điện",
+    "model": "They will use buses and trains for most journeys. They may also walk or cycle for short trips.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2.2",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "buses",
+        "trains",
+        "walk",
+        "cycle"
+      ],
+      "frame": "They will use … for …. They may also … for ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "buses and trains",
+        "most journeys",
+        "walk or cycle",
+        "short trips"
+      ]
+    }
+  },
+  {
+    "id": "U3-S06",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Give reasons",
+    "english": "Really? Why do you think public transport will be popular with city dwellers?",
+    "vietnamese": "Thật sao? Vì sao bạn nghĩ giao thông công cộng sẽ phổ biến với cư dân thành phố?",
+    "hint": "nhanh → tiện → thân thiện môi trường",
+    "model": "Because technology will make public transport faster and more convenient. It will also help reduce pollution.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2.3",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "technology",
+        "faster",
+        "convenient",
+        "pollution"
+      ],
+      "frame": "Because technology will make …. It will also help ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "public transport faster and more convenient",
+        "reduce pollution"
+      ]
+    }
+  },
+  {
+    "id": "U3-S07",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Ask and answer about homes",
+    "english": "Where will people live?",
+    "vietnamese": "Mọi người sẽ sống ở đâu?",
+    "hint": "tòa nhà xanh → vườn mái",
+    "model": "Many people will live in green apartment buildings. These buildings may have roof gardens and energy-saving systems.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3, tips",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "green apartment buildings",
+        "roof gardens",
+        "energy-saving systems"
+      ],
+      "frame": "Many people will live in …. These buildings may have ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "green apartment buildings",
+        "roof gardens and energy-saving systems"
+      ]
+    }
+  },
+  {
+    "id": "U3-S08",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Ask and answer about work",
+    "english": "What jobs will they do?",
+    "vietnamese": "Họ sẽ làm những công việc gì?",
+    "hint": "công nghệ → dịch vụ",
+    "model": "Many people will work in technology and services. Some will help design and maintain smart city systems.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3, tips",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "technology",
+        "services",
+        "design",
+        "maintain"
+      ],
+      "frame": "Many people will work in …. Some will help ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "technology and services",
+        "design and maintain smart city systems"
+      ]
+    }
+  },
+  {
+    "id": "U3-S09",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Explain technology",
+    "english": "How will technology help city dwellers?",
+    "vietnamese": "Công nghệ sẽ giúp cư dân thành phố như thế nào?",
+    "hint": "thông tin giao thông → tiết kiệm thời gian",
+    "model": "Technology will give people useful travel information. Smart devices will also help them save energy and time.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3, tips",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "travel information",
+        "Smart devices",
+        "energy",
+        "time"
+      ],
+      "frame": "Technology will give people …. Smart devices will also help them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "useful travel information",
+        "save energy and time"
+      ]
+    }
+  },
+  {
+    "id": "U3-S10",
+    "unitId": "U3",
+    "topic": "Discussing cities of the future",
+    "goal": "Present a vision",
+    "english": "Describe your vision of a future city, including transport, infrastructure and living conditions.",
+    "vietnamese": "Hãy mô tả hình dung của bạn về một thành phố tương lai, bao gồm giao thông, cơ sở hạ tầng và điều kiện sống.",
+    "hint": "ba mặt → ví dụ → kết luận",
+    "model": "My future city will have clean electric buses and safe cycle paths. Its buildings will use less energy and have green spaces. People will enjoy cleaner air and more convenient services.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 33,
+      "pdfPage": 35,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "electric buses",
+        "cycle paths",
+        "less energy",
+        "green spaces",
+        "cleaner air"
+      ],
+      "frame": "My future city will have …. Its buildings will …. People will enjoy ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "clean electric buses and safe cycle paths",
+        "use less energy and have green spaces",
+        "cleaner air and more convenient services"
+      ]
+    }
+  },
+  {
+    "id": "U4-S01",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain a qualification",
+    "english": "Why should SSEAYP participants understand current issues in ASEAN countries?",
+    "vietnamese": "Vì sao người tham gia SSEAYP nên hiểu các vấn đề hiện tại ở các nước ASEAN?",
+    "hint": "hiểu vấn đề → đề xuất giải pháp",
+    "model": "They need to discuss these issues and suggest solutions. Understanding the problems helps them contribute useful ideas.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.1",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "discuss",
+        "suggest solutions",
+        "problems",
+        "useful ideas"
+      ],
+      "frame": "They need to … and …. Understanding the problems helps them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "discuss these issues",
+        "suggest solutions",
+        "contribute useful ideas"
+      ]
+    }
+  },
+  {
+    "id": "U4-S02",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Give reasons",
+    "english": "Why is community work experience useful for SSEAYP participants?",
+    "vietnamese": "Vì sao kinh nghiệm hoạt động cộng đồng hữu ích với người tham gia SSEAYP?",
+    "hint": "kinh nghiệm → kỹ năng thực tế",
+    "model": "It shows that they have practical skills and knowledge. They can share what they have learned from helping their communities.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.2",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "practical skills",
+        "knowledge",
+        "share",
+        "communities"
+      ],
+      "frame": "It shows that they have …. They can share ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "practical skills and knowledge",
+        "what they have learned from helping their communities"
+      ]
+    }
+  },
+  {
+    "id": "U4-S03",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain a requirement",
+    "english": "Why should SSEAYP participants speak good English?",
+    "vietnamese": "Vì sao người tham gia SSEAYP nên nói tiếng Anh tốt?",
+    "hint": "ngôn ngữ làm việc → thảo luận",
+    "model": "English is the working language. Good English helps participants understand each other and take part in discussions.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.3",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "working language",
+        "understand",
+        "discussions"
+      ],
+      "frame": "English is …. Good English helps participants … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "the working language",
+        "understand each other",
+        "take part in discussions"
+      ]
+    }
+  },
+  {
+    "id": "U4-S04",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain a skill",
+    "english": "Why do SSEAYP participants need to be confident speakers?",
+    "vietnamese": "Vì sao người tham gia SSEAYP cần tự tin khi nói?",
+    "hint": "trình bày → trước người nghe",
+    "model": "They need to present their ideas clearly in front of an audience. Confidence helps them share their opinions.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.4",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "present",
+        "clearly",
+        "audience",
+        "opinions"
+      ],
+      "frame": "They need to …. Confidence helps them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "present their ideas clearly in front of an audience",
+        "share their opinions"
+      ]
+    }
+  },
+  {
+    "id": "U4-S05",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain teamwork",
+    "english": "Why are teamwork skills important for SSEAYP participants?",
+    "vietnamese": "Vì sao kỹ năng làm việc nhóm quan trọng với người tham gia SSEAYP?",
+    "hint": "hợp tác → giải quyết vấn đề",
+    "model": "Participants work with people from different countries. Teamwork helps them solve problems together.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.5",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "different countries",
+        "Teamwork",
+        "solve problems"
+      ],
+      "frame": "Participants work with …. Teamwork helps them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "people from different countries",
+        "solve problems together"
+      ]
+    }
+  },
+  {
+    "id": "U4-S06",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain cultural understanding",
+    "english": "Why should SSEAYP participants understand different cultures?",
+    "vietnamese": "Vì sao người tham gia SSEAYP nên hiểu các nền văn hóa khác nhau?",
+    "hint": "tôn trọng → kết bạn",
+    "model": "Understanding different cultures helps them meet new people and make friends. It also helps them avoid misunderstandings.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.6",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "different cultures",
+        "meet new people",
+        "make friends",
+        "misunderstandings"
+      ],
+      "frame": "Understanding different cultures helps them …. It also helps them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "meet new people and make friends",
+        "avoid misunderstandings"
+      ]
+    }
+  },
+  {
+    "id": "U4-S07",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "State an opinion",
+    "english": "What do you think is the most important skill or experience for SSEAYP participants to have?",
+    "vietnamese": "Bạn nghĩ kỹ năng hoặc kinh nghiệm quan trọng nhất mà người tham gia SSEAYP cần có là gì?",
+    "hint": "ý kiến → tiếng Anh → lý do",
+    "model": "I think speaking good English is most important. Participants need it to discuss ideas with people from different countries.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "good English",
+        "most important",
+        "discuss ideas",
+        "different countries"
+      ],
+      "frame": "I think … is most important. Participants need it to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "speaking good English",
+        "discuss ideas with people from different countries"
+      ]
+    }
+  },
+  {
+    "id": "U4-S08",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Justify an opinion",
+    "english": "Why do you think speaking good English is the most important SSEAYP skill?",
+    "vietnamese": "Vì sao bạn nghĩ nói tiếng Anh tốt là kỹ năng quan trọng nhất đối với SSEAYP?",
+    "hint": "giao tiếp → tham gia",
+    "model": "Because English helps participants understand each other. Without it, joining discussions would be difficult.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "English",
+        "understand",
+        "discussions",
+        "difficult"
+      ],
+      "frame": "Because English helps participants …. Without it, … would be ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "understand each other",
+        "joining discussions",
+        "difficult"
+      ]
+    }
+  },
+  {
+    "id": "U4-S09",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Explain a difficulty",
+    "english": "How will they take part in discussions if their English is not good enough?",
+    "vietnamese": "Họ sẽ tham gia thảo luận như thế nào nếu tiếng Anh của họ chưa đủ tốt?",
+    "hint": "chuẩn bị → hỏi lại → từ đơn giản",
+    "model": "They can prepare useful words before a discussion. They can also ask people to repeat and use simple sentences.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 46,
+      "pdfPage": 48,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "prepare",
+        "useful words",
+        "repeat",
+        "simple sentences"
+      ],
+      "frame": "They can … before …. They can also ask … and use ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "prepare useful words",
+        "a discussion",
+        "people to repeat",
+        "simple sentences"
+      ]
+    }
+  },
+  {
+    "id": "U4-S10",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Discuss priorities",
+    "english": "Choose the most important skill for SSEAYP and explain your choice to me.",
+    "vietnamese": "Hãy chọn kỹ năng quan trọng nhất đối với SSEAYP và giải thích lựa chọn của bạn với tôi.",
+    "hint": "chọn → lý do → hỏi ý kiến",
+    "model": "I would choose teamwork because participants need to solve problems together. Good teamwork allows everyone to contribute. What do you think?",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 47,
+      "pdfPage": 49,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "teamwork",
+        "solve problems",
+        "contribute"
+      ],
+      "frame": "I would choose … because …. Good teamwork allows …. What do you think?",
+      "origin": "authored",
+      "frameAnswers": [
+        "teamwork",
+        "participants need to solve problems together",
+        "everyone to contribute"
+      ]
+    }
+  },
+  {
+    "id": "U4-S11",
+    "unitId": "U4",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "goal": "Rank and justify",
+    "english": "Rank these SSEAYP qualifications: knowledge of ASEAN issues, community work, English, confident speaking, teamwork and cultural understanding. Explain your ranking.",
+    "vietnamese": "Hãy xếp hạng các năng lực SSEAYP sau: hiểu vấn đề ASEAN, hoạt động cộng đồng, tiếng Anh, tự tin nói, làm việc nhóm và hiểu văn hóa. Giải thích thứ tự của bạn.",
+    "hint": "thứ tự → ưu tiên → lý do",
+    "model": "I would rank English first, teamwork second and cultural understanding third. Next come knowledge of ASEAN issues, confident speaking and community work. All six matter, but communication helps participants use their other skills.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 47,
+      "pdfPage": 49,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "English",
+        "teamwork",
+        "cultural understanding",
+        "ASEAN issues",
+        "communication"
+      ],
+      "frame": "I would rank … first, … second and … third. Next come …. All six matter, but ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "English",
+        "teamwork",
+        "cultural understanding",
+        "knowledge of ASEAN issues, confident speaking and community work",
+        "communication helps participants use their other skills"
+      ]
+    }
+  },
+  {
+    "id": "U5-S01",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Explain cause and effect",
+    "english": "How does cutting down or burning forests contribute to global warming?",
+    "vietnamese": "Việc chặt hoặc đốt rừng góp phần gây nóng lên toàn cầu như thế nào?",
+    "hint": "ít cây hấp thụ → carbon thoát ra",
+    "model": "Trees absorb carbon dioxide and store carbon. Cutting or burning forests releases carbon and leaves fewer trees to absorb carbon dioxide.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.1",
+      "printedPage": 56,
+      "pdfPage": 58,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "absorb carbon dioxide",
+        "store carbon",
+        "releases carbon",
+        "fewer trees"
+      ],
+      "frame": "Trees … and …. Cutting or burning forests … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "absorb carbon dioxide",
+        "store carbon",
+        "releases carbon",
+        "leaves fewer trees to absorb carbon dioxide"
+      ]
+    }
+  },
+  {
+    "id": "U5-S02",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Explain cause and effect",
+    "english": "How does burning coal, oil and gas affect the climate?",
+    "vietnamese": "Việc đốt than, dầu và khí đốt ảnh hưởng đến khí hậu như thế nào?",
+    "hint": "nhiên liệu hóa thạch → khí nhà kính → giữ nhiệt",
+    "model": "Burning these fuels releases carbon dioxide. This greenhouse gas traps heat and makes the Earth warmer.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.2",
+      "printedPage": 56,
+      "pdfPage": 58,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "carbon dioxide",
+        "greenhouse gas",
+        "traps heat",
+        "warmer"
+      ],
+      "frame": "Burning these fuels releases …. This greenhouse gas … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "carbon dioxide",
+        "traps heat",
+        "makes the Earth warmer"
+      ]
+    }
+  },
+  {
+    "id": "U5-S03",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Explain cause and effect",
+    "english": "How can raising farm animals contribute to global warming?",
+    "vietnamese": "Việc chăn nuôi có thể góp phần gây nóng lên toàn cầu như thế nào?",
+    "hint": "khí mê-tan → đất chăn nuôi",
+    "model": "Animals such as cows produce methane. Forests may also be cleared to make space for farm animals, which adds to warming.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.3",
+      "printedPage": 56,
+      "pdfPage": 58,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "cows",
+        "methane",
+        "cleared",
+        "warming"
+      ],
+      "frame": "Animals such as … produce …. Forests may also …, which ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "cows",
+        "methane",
+        "be cleared to make space for farm animals",
+        "adds to warming"
+      ]
+    }
+  },
+  {
+    "id": "U5-S04",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "State a reasoned opinion",
+    "english": "Which human activity is the main cause of global warming?",
+    "vietnamese": "Hoạt động nào của con người là nguyên nhân chính gây nóng lên toàn cầu?",
+    "hint": "nhiên liệu hóa thạch → CO₂",
+    "model": "I think burning coal, oil and gas is the main cause. These fuels release large amounts of carbon dioxide when used for energy.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 57,
+      "pdfPage": 59,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "coal, oil and gas",
+        "main cause",
+        "carbon dioxide",
+        "energy"
+      ],
+      "frame": "I think … is the main cause. These fuels release … when ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "burning coal, oil and gas",
+        "large amounts of carbon dioxide",
+        "used for energy"
+      ]
+    }
+  },
+  {
+    "id": "U5-S05",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Support an opinion",
+    "english": "Why do you think burning fossil fuels is a major cause of global warming?",
+    "vietnamese": "Vì sao bạn nghĩ đốt nhiên liệu hóa thạch là một nguyên nhân lớn gây nóng lên toàn cầu?",
+    "hint": "năng lượng → phát thải → giữ nhiệt",
+    "model": "We burn fossil fuels for electricity, transport and industry. The carbon dioxide released traps heat in the atmosphere.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 57,
+      "pdfPage": 59,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "fossil fuels",
+        "electricity",
+        "transport",
+        "industry",
+        "traps heat"
+      ],
+      "frame": "We burn … for …. The carbon dioxide released ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "fossil fuels",
+        "electricity, transport and industry",
+        "traps heat in the atmosphere"
+      ]
+    }
+  },
+  {
+    "id": "U5-S06",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Present an argument",
+    "english": "Explain two effects of burning fossil fuels that contribute to global warming.",
+    "vietnamese": "Hãy giải thích hai tác động của việc đốt nhiên liệu hóa thạch góp phần gây nóng lên toàn cầu.",
+    "hint": "CO₂ → hiệu ứng giữ nhiệt",
+    "model": "First, burning fossil fuels adds carbon dioxide to the air. Second, the extra greenhouse gases trap more heat, raising global temperatures.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3, fossil fuels",
+      "printedPage": 57,
+      "pdfPage": 59,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "fossil fuels",
+        "carbon dioxide",
+        "greenhouse gases",
+        "heat",
+        "global temperatures"
+      ],
+      "frame": "First, …. Second, …, ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "burning fossil fuels adds carbon dioxide to the air",
+        "the extra greenhouse gases trap more heat",
+        "raising global temperatures"
+      ]
+    }
+  },
+  {
+    "id": "U5-S07",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Present an argument",
+    "english": "Explain how farm animals and the land used for them can contribute to warming.",
+    "vietnamese": "Hãy giải thích động vật nuôi và đất dùng cho chúng có thể góp phần gây nóng lên toàn cầu như thế nào.",
+    "hint": "mê-tan → mất rừng",
+    "model": "Farm animals can produce methane, which traps heat. Clearing forests for farms also removes trees that absorb carbon dioxide.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3, farm animals",
+      "printedPage": 57,
+      "pdfPage": 59,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "methane",
+        "traps heat",
+        "Clearing forests",
+        "absorb carbon dioxide"
+      ],
+      "frame": "Farm animals can produce …, which …. Clearing forests for farms also removes ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "methane",
+        "traps heat",
+        "trees that absorb carbon dioxide"
+      ]
+    }
+  },
+  {
+    "id": "U5-S08",
+    "unitId": "U5",
+    "topic": "Human activities and global warming",
+    "goal": "Compare and conclude",
+    "english": "Which human activity do you think contributes most to global warming? Present your reasons.",
+    "vietnamese": "Bạn nghĩ hoạt động nào của con người góp phần nhiều nhất vào nóng lên toàn cầu? Hãy trình bày lý do.",
+    "hint": "ý kiến → hai lý do → kết luận",
+    "model": "I think burning fossil fuels contributes the most. We use them in many parts of daily life, and they release a lot of carbon dioxide. Reducing their use is therefore important.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 57,
+      "pdfPage": 59,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "fossil fuels",
+        "most",
+        "daily life",
+        "carbon dioxide",
+        "Reducing"
+      ],
+      "frame": "I think … contributes the most. We use …, and …. Reducing their use is therefore ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "burning fossil fuels",
+        "them in many parts of daily life",
+        "they release a lot of carbon dioxide",
+        "important"
+      ]
+    }
+  },
+  {
+    "id": "U6-S01",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Explain a benefit",
+    "english": "How can learning about cultural heritage at school help preserve it?",
+    "vietnamese": "Việc học về di sản văn hóa ở trường có thể giúp bảo tồn di sản như thế nào?",
+    "hint": "hiểu giá trị → quan tâm",
+    "model": "It helps students understand the value of cultural heritage. They may then become more interested in protecting it.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.1",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "value",
+        "cultural heritage",
+        "interested",
+        "protecting"
+      ],
+      "frame": "It helps students understand …. They may then become ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "the value of cultural heritage",
+        "more interested in protecting it"
+      ]
+    }
+  },
+  {
+    "id": "U6-S02",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Explain a benefit",
+    "english": "Why should we promote cultural heritage on social media?",
+    "vietnamese": "Vì sao chúng ta nên quảng bá di sản văn hóa trên mạng xã hội?",
+    "hint": "chia sẻ nhanh → nhiều người",
+    "model": "Social media can spread information to many people quickly. Photos and short videos can encourage people to learn more.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.2",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Social media",
+        "spread information",
+        "quickly",
+        "Photos",
+        "videos"
+      ],
+      "frame": "Social media can …. Photos and short videos can encourage people to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "spread information to many people quickly",
+        "learn more"
+      ]
+    }
+  },
+  {
+    "id": "U6-S03",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Explain participation",
+    "english": "How can competitions help preserve cultural heritage?",
+    "vietnamese": "Các cuộc thi có thể giúp bảo tồn di sản văn hóa như thế nào?",
+    "hint": "ý tưởng mới → tham gia",
+    "model": "Competitions can encourage people to get involved. They can also produce useful new ideas for preserving heritage.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.3",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Competitions",
+        "get involved",
+        "new ideas",
+        "preserving"
+      ],
+      "frame": "Competitions can encourage people to …. They can also produce ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "get involved",
+        "useful new ideas for preserving heritage"
+      ]
+    }
+  },
+  {
+    "id": "U6-S04",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Explain cultural exchange",
+    "english": "How can tourism activities help preserve cultural heritage?",
+    "vietnamese": "Các hoạt động du lịch có thể giúp bảo tồn di sản văn hóa như thế nào?",
+    "hint": "du khách → biết đến → trân trọng",
+    "model": "Tourism activities can introduce heritage to visitors from around the world. Responsible tours can help them understand and respect it.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.4",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Tourism activities",
+        "visitors",
+        "Responsible tours",
+        "respect"
+      ],
+      "frame": "Tourism activities can introduce … to …. Responsible tours can help them ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "heritage",
+        "visitors from around the world",
+        "understand and respect it"
+      ]
+    }
+  },
+  {
+    "id": "U6-S05",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Offer an opinion",
+    "english": "What do you think is the best way to preserve cultural heritage?",
+    "vietnamese": "Bạn nghĩ cách tốt nhất để bảo tồn di sản văn hóa là gì?",
+    "hint": "nhận thức → câu lạc bộ",
+    "model": "I think raising awareness is the best way. School clubs can help young people learn about traditional music and dance.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "raising awareness",
+        "School clubs",
+        "traditional music",
+        "dance"
+      ],
+      "frame": "I think … is the best way. School clubs can help ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "raising awareness",
+        "young people learn about traditional music and dance"
+      ]
+    }
+  },
+  {
+    "id": "U6-S06",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Explain a concern",
+    "english": "Why might some teenagers show little interest in traditional arts?",
+    "vietnamese": "Vì sao một số thanh thiếu niên có thể ít quan tâm đến nghệ thuật truyền thống?",
+    "hint": "ít tiếp xúc → hoạt động khác",
+    "model": "Some teenagers have little experience of traditional arts. They may find other activities more exciting, so clubs need interesting activities.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 70,
+      "pdfPage": 72,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "little experience",
+        "traditional arts",
+        "exciting",
+        "interesting activities"
+      ],
+      "frame": "Some teenagers have …. They may find …, so ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "little experience of traditional arts",
+        "other activities more exciting",
+        "clubs need interesting activities"
+      ]
+    }
+  },
+  {
+    "id": "U6-S07",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Keep a conversation going",
+    "english": "Suggest a way to preserve cultural heritage and invite my opinion.",
+    "vietnamese": "Hãy đề xuất một cách bảo tồn di sản văn hóa và hỏi ý kiến tôi.",
+    "hint": "đề xuất → lợi ích → hỏi",
+    "model": "We could invite local artists to run workshops at school. Students could try traditional music for themselves. What do you think of that idea?",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 71,
+      "pdfPage": 73,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "local artists",
+        "workshops",
+        "traditional music"
+      ],
+      "frame": "We could …. Students could …. What do you think of that idea?",
+      "origin": "authored",
+      "frameAnswers": [
+        "invite local artists to run workshops at school",
+        "try traditional music for themselves"
+      ]
+    }
+  },
+  {
+    "id": "U6-S08",
+    "unitId": "U6",
+    "topic": "Preserving cultural heritage",
+    "goal": "Propose a plan",
+    "english": "Choose a tradition, festival or form of music and explain how to preserve it.",
+    "vietnamese": "Hãy chọn một truyền thống, lễ hội hoặc loại hình âm nhạc và giải thích cách bảo tồn.",
+    "hint": "chọn → ghi lại → truyền dạy",
+    "model": "I would choose folk singing. We could record local singers with their permission and organise workshops for young people. This would help pass the songs to the next generation.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 71,
+      "pdfPage": 73,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "folk singing",
+        "record",
+        "permission",
+        "workshops",
+        "next generation"
+      ],
+      "frame": "I would choose …. We could … and …. This would help ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "folk singing",
+        "record local singers with their permission",
+        "organise workshops for young people",
+        "pass the songs to the next generation"
+      ]
+    }
+  },
+  {
+    "id": "U7-S01",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Explain benefits",
+    "english": "What are the benefits of vocational training?",
+    "vietnamese": "Những lợi ích của đào tạo nghề là gì?",
+    "hint": "thực hành → ngắn hơn → chi phí",
+    "model": "Vocational training develops practical skills. Courses are often shorter and can cost less than university study.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, vocational",
+      "printedPage": 80,
+      "pdfPage": 82,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "practical skills",
+        "shorter",
+        "cost less"
+      ],
+      "frame": "Vocational training develops …. Courses are often … and can ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "practical skills",
+        "shorter",
+        "cost less than university study"
+      ]
+    }
+  },
+  {
+    "id": "U7-S02",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Explain benefits",
+    "english": "What are the benefits of academic study?",
+    "vietnamese": "Những lợi ích của việc học theo hướng học thuật là gì?",
+    "hint": "tư duy phản biện → nghiên cứu → cơ hội",
+    "model": "Academic study develops critical thinking and research skills. It can also lead to jobs that require a degree.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, academic",
+      "printedPage": 80,
+      "pdfPage": 82,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "critical thinking",
+        "research skills",
+        "jobs",
+        "degree"
+      ],
+      "frame": "Academic study develops …. It can also lead to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "critical thinking and research skills",
+        "jobs that require a degree"
+      ]
+    }
+  },
+  {
+    "id": "U7-S03",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Continue a discussion",
+    "english": "What do you think is the second benefit of vocational training, after practical skills?",
+    "vietnamese": "Bạn nghĩ lợi ích thứ hai của đào tạo nghề, sau kỹ năng thực hành, là gì?",
+    "hint": "đào tạo nghề → thời gian ngắn",
+    "model": "I think the second benefit of vocational training is its shorter duration. Students can finish their courses and start working sooner.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 80,
+      "pdfPage": 82,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "shorter duration",
+        "finish",
+        "start working"
+      ],
+      "frame": "I think the second benefit of vocational training is …. Students can … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "its shorter duration",
+        "finish their courses",
+        "start working sooner"
+      ]
+    }
+  },
+  {
+    "id": "U7-S04",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "End a discussion",
+    "english": "Summarise three benefits of vocational training and end our discussion.",
+    "vietnamese": "Hãy tóm tắt ba lợi ích của đào tạo nghề và kết thúc cuộc thảo luận của chúng ta.",
+    "hint": "thực hành → thời gian → chi phí → kết",
+    "model": "We have agreed on three main benefits: practical skills, shorter courses and lower costs. We are now ready to present our ideas. Thank you for the discussion.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 80,
+      "pdfPage": 82,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "practical skills",
+        "shorter courses",
+        "lower costs",
+        "present"
+      ],
+      "frame": "We have agreed on three main benefits: …, … and …. We are now ready to …. Thank you for the discussion.",
+      "origin": "authored",
+      "frameAnswers": [
+        "practical skills",
+        "shorter courses",
+        "lower costs",
+        "present our ideas"
+      ]
+    }
+  },
+  {
+    "id": "U7-S05",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Discuss academic study",
+    "english": "Explain the benefits of academic study, then bring the conversation to a close.",
+    "vietnamese": "Hãy giải thích lợi ích của việc học theo hướng học thuật, rồi kết thúc cuộc trò chuyện.",
+    "hint": "kiến thức → nghiên cứu → tóm tắt",
+    "model": "Academic study gives students deeper knowledge of a subject. It also develops research and critical thinking skills. We have covered the main benefits, so let's finish here.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 81,
+      "pdfPage": 83,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "deeper knowledge",
+        "research",
+        "critical thinking",
+        "finish"
+      ],
+      "frame": "Academic study gives …. It also develops …. We have covered …, so ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "students deeper knowledge of a subject",
+        "research and critical thinking skills",
+        "the main benefits",
+        "let's finish here"
+      ]
+    }
+  },
+  {
+    "id": "U7-S06",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Recommend an option",
+    "english": "What kind of learner might vocational training suit, and why?",
+    "vietnamese": "Đào tạo nghề có thể phù hợp với kiểu người học nào, và vì sao?",
+    "hint": "thích thực hành → nghề cụ thể",
+    "model": "It may suit learners who enjoy practical work and want to learn a specific trade. They can gain skills that are directly useful at work.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4, vocational",
+      "printedPage": 81,
+      "pdfPage": 83,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "practical work",
+        "specific trade",
+        "skills",
+        "work"
+      ],
+      "frame": "It may suit learners who … and …. They can gain ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "enjoy practical work",
+        "want to learn a specific trade",
+        "skills that are directly useful at work"
+      ]
+    }
+  },
+  {
+    "id": "U7-S07",
+    "unitId": "U7",
+    "topic": "Vocational training vs academic study",
+    "goal": "Recommend an option",
+    "english": "What kind of learner might academic study suit, and why?",
+    "vietnamese": "Việc học theo hướng học thuật có thể phù hợp với kiểu người học nào, và vì sao?",
+    "hint": "thích nghiên cứu → nghề cần bằng",
+    "model": "It may suit learners who enjoy theory and research. It is also useful for people who want careers that require a university degree.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4, academic",
+      "printedPage": 81,
+      "pdfPage": 83,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "theory",
+        "research",
+        "careers",
+        "university degree"
+      ],
+      "frame": "It may suit learners who …. It is also useful for people who ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "enjoy theory and research",
+        "want careers that require a university degree"
+      ]
+    }
+  },
+  {
+    "id": "U8-S01",
+    "unitId": "U8",
+    "topic": "Learning basic life skills",
+    "goal": "Describe experience",
+    "english": "Have you ever done your laundry? If yes, how did you do it?",
+    "vietnamese": "Bạn đã từng tự giặt quần áo chưa? Nếu có, bạn đã làm như thế nào?",
+    "hint": "phân loại → máy giặt → phơi",
+    "model": "Yes, I have. I sorted my clothes by colour, added washing liquid and used the washing machine. Then I hung the clothes to dry.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1a",
+      "printedPage": 90,
+      "pdfPage": 92,
+      "origin": "source",
+      "adaptation": null
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "sorted",
+        "colour",
+        "washing liquid",
+        "washing machine",
+        "hung"
+      ],
+      "frame": "Yes, I have. I …, … and …. Then I ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "sorted my clothes by colour",
+        "added washing liquid",
+        "used the washing machine",
+        "hung the clothes to dry"
+      ]
+    }
+  },
+  {
+    "id": "U8-S02",
+    "unitId": "U8",
+    "topic": "Learning basic life skills",
+    "goal": "Sequence a process",
+    "english": "Put these laundry steps in order and explain them: store clothes; sort by colour; remove and dry wet clothes; add washing powder or liquid; load and start the machine.",
+    "vietnamese": "Hãy sắp xếp và giải thích thứ tự các bước giặt: cất quần áo; phân loại theo màu; lấy đồ ướt ra và làm khô; thêm bột hoặc nước giặt; cho đồ vào và bật máy.",
+    "hint": "phân loại → nước giặt → máy → phơi → cất",
+    "model": "First, sort the clothes by colour. Second, add washing powder or liquid. Then load the machine and turn it on. Next, remove and dry the wet clothes. Finally, fold or hang them and put them away.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1b",
+      "printedPage": 90,
+      "pdfPage": 92,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "sort",
+        "colour",
+        "washing powder",
+        "load",
+        "dry",
+        "fold"
+      ],
+      "frame": "First, …. Second, …. Then …. Next, …. Finally, ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "sort the clothes by colour",
+        "add washing powder or liquid",
+        "load the machine and turn it on",
+        "remove and dry the wet clothes",
+        "fold or hang them and put them away"
+      ]
+    }
+  },
+  {
+    "id": "U8-S03",
+    "unitId": "U8",
+    "topic": "Learning basic life skills",
+    "goal": "Give detailed instructions",
+    "english": "Explain how to do laundry, including sorting, detergent, loading, drying and storing.",
+    "vietnamese": "Hãy giải thích cách giặt quần áo, bao gồm phân loại, chất giặt, cho đồ vào máy, làm khô và cất đồ.",
+    "hint": "đọc hướng dẫn → không quá tải → phơi → gấp",
+    "model": "First, sort clothes by colour. Read the detergent instructions and use the correct amount. Load the machine without putting in too many items, then start it. When it finishes, remove and dry the clothes. Finally, fold or hang them and put them away.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2",
+      "printedPage": 90,
+      "pdfPage": 92,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "sort",
+        "detergent instructions",
+        "correct amount",
+        "too many items",
+        "dry",
+        "fold"
+      ],
+      "frame": "First, …. Read … and …. Load …, then …. When …, …. Finally, ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "sort clothes by colour",
+        "the detergent instructions",
+        "use the correct amount",
+        "the machine without putting in too many items",
+        "start it",
+        "it finishes",
+        "remove and dry the clothes",
+        "fold or hang them and put them away"
+      ]
+    }
+  },
+  {
+    "id": "U8-S04",
+    "unitId": "U8",
+    "topic": "Learning basic life skills",
+    "goal": "Give cooking instructions",
+    "english": "Explain the rice-cooker steps shown: rinse the rice, measure two cups of water per cup of white rice, combine them, then switch on and wait.",
+    "vietnamese": "Hãy giải thích các bước nấu cơm được minh họa: vo gạo, đong hai cốc nước cho mỗi cốc gạo trắng, cho vào nồi, rồi bật nồi và chờ.",
+    "hint": "vo → đong theo hình → nồi → chờ",
+    "model": "First, rinse the rice. For the routine shown, measure two cups of water for each cup of white rice. Put the rice and water in the cooker bowl. Then switch on the cooker and wait until the rice is cooked.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3",
+      "printedPage": 91,
+      "pdfPage": 93,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "rinse",
+        "two cups of water",
+        "white rice",
+        "cooker bowl",
+        "switch on",
+        "cooked"
+      ],
+      "frame": "First, …. For the routine shown, …. Put … in …. Then … and wait until ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "rinse the rice",
+        "measure two cups of water for each cup of white rice",
+        "the rice and water",
+        "the cooker bowl",
+        "switch on the cooker",
+        "the rice is cooked"
+      ]
+    }
+  },
+  {
+    "id": "U8-S05",
+    "unitId": "U8",
+    "topic": "Learning basic life skills",
+    "goal": "Add practical advice",
+    "english": "What extra steps or tips would you add to the rice-cooker instructions?",
+    "vietnamese": "Bạn sẽ bổ sung những bước hoặc mẹo nào vào hướng dẫn nấu cơm bằng nồi cơm điện?",
+    "hint": "hướng dẫn nồi → an toàn → chờ nguội",
+    "model": "I would check the cooker's instructions because water amounts can vary. Keep your hands dry when using the switch, and be careful of hot steam. Let the rice rest briefly before serving.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 91,
+      "pdfPage": 93,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "instructions",
+        "water amounts",
+        "hands dry",
+        "hot steam",
+        "rest"
+      ],
+      "frame": "I would … because …. Keep …, and be careful of …. Let … before ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "check the cooker's instructions",
+        "water amounts can vary",
+        "your hands dry when using the switch",
+        "hot steam",
+        "the rice rest briefly",
+        "serving"
+      ]
+    }
+  },
+  {
+    "id": "U9-S01",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Rank pressures",
+    "english": "Rank these pressures from strongest to weakest for you: good grades, sport, fashion, looking slim and fit, owning the latest device, and breaking rules.",
+    "vietnamese": "Hãy xếp các áp lực sau từ mạnh nhất đến yếu nhất đối với bạn: điểm tốt, thể thao, thời trang, trông thon gọn và khỏe, có thiết bị mới nhất và vi phạm quy định.",
+    "hint": "thứ tự cá nhân → không có đáp án cố định",
+    "model": "For me, grades come first, followed by looking fit, sport, fashion, devices and breaking rules. I care most about school, so grades affect me most.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1",
+      "printedPage": 104,
+      "pdfPage": 106,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "grades",
+        "looking fit",
+        "devices",
+        "breaking rules",
+        "school"
+      ],
+      "frame": "For me, … come first, followed by …. I care most about …, so ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "grades",
+        "looking fit, sport, fashion, devices and breaking rules",
+        "school",
+        "grades affect me most"
+      ]
+    }
+  },
+  {
+    "id": "U9-S02",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Explain personal impact",
+    "english": "Which pressure affects you most: good grades, sport, fashion, looking slim and fit, owning the latest device, or breaking rules? Why?",
+    "vietnamese": "Áp lực nào ảnh hưởng đến bạn nhiều nhất: điểm tốt, thể thao, thời trang, trông thon gọn và khỏe, có thiết bị mới nhất hay vi phạm quy định? Vì sao?",
+    "hint": "điểm số → so sánh → lo lắng",
+    "model": "Pressure to get good grades affects me most. I sometimes compare my marks with my friends' marks and worry about falling behind.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2a",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "good grades",
+        "most",
+        "compare",
+        "marks",
+        "falling behind"
+      ],
+      "frame": "Pressure to … affects me most. I sometimes … and worry about ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "get good grades",
+        "compare my marks with my friends' marks",
+        "falling behind"
+      ]
+    }
+  },
+  {
+    "id": "U9-S03",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Explain personal impact",
+    "english": "Which pressure affects you least: good grades, sport, fashion, looking slim and fit, owning the latest device, or breaking rules? Why?",
+    "vietnamese": "Áp lực nào ảnh hưởng đến bạn ít nhất: điểm tốt, thể thao, thời trang, trông thon gọn và khỏe, có thiết bị mới nhất hay vi phạm quy định? Vì sao?",
+    "hint": "thiết bị → vẫn dùng tốt",
+    "model": "Pressure to own the latest device affects me least. My phone still works well, and I do not need a new one to feel accepted.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2b",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "latest device",
+        "least",
+        "works well",
+        "accepted"
+      ],
+      "frame": "Pressure to … affects me least. My phone still …, and I do not need ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "own the latest device",
+        "works well",
+        "a new one to feel accepted"
+      ]
+    }
+  },
+  {
+    "id": "U9-S04",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Identify positive influence",
+    "english": "Which of these pressures can be positive: good grades, sport, fashion, looking slim and fit, owning the latest device, or breaking rules?",
+    "vietnamese": "Những áp lực nào sau đây có thể tích cực: điểm tốt, thể thao, thời trang, trông thon gọn và khỏe, có thiết bị mới nhất hay vi phạm quy định?",
+    "hint": "học tập → thể thao → mức phù hợp",
+    "model": "Encouraging friends to study or take part in sport can be positive. It helps when the encouragement respects each person's abilities and choices.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2c",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Self-contained solo question based on the cited textbook activity."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "study",
+        "sport",
+        "positive",
+        "abilities",
+        "choices"
+      ],
+      "frame": "Encouraging friends to … can be positive. It helps when … respects ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "study or take part in sport",
+        "the encouragement",
+        "each person's abilities and choices"
+      ]
+    }
+  },
+  {
+    "id": "U9-S05",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Refuse and give reasons",
+    "english": "Your friend asks you to pretend to be a parent and write a letter so they can skip a test. How would you respond, and why?",
+    "vietnamese": "Bạn của bạn nhờ bạn giả làm phụ huynh viết thư để bạn ấy bỏ bài kiểm tra. Bạn sẽ đáp lại thế nào, và vì sao?",
+    "hint": "từ chối → trung thực → giúp ôn",
+    "model": "I cannot pretend to be your parent. It would be dishonest and could cause serious trouble. I can help you revise instead.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.1",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "cannot pretend",
+        "dishonest",
+        "serious trouble",
+        "revise"
+      ],
+      "frame": "I cannot …. It would be … and could …. I can help you … instead.",
+      "origin": "authored",
+      "frameAnswers": [
+        "pretend to be your parent",
+        "dishonest",
+        "cause serious trouble",
+        "revise"
+      ]
+    }
+  },
+  {
+    "id": "U9-S06",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Respond confidently",
+    "english": "Your friend makes fun of your old smartphone and says you should buy a new one. How would you respond, and why?",
+    "vietnamese": "Bạn của bạn chế giễu điện thoại cũ của bạn và nói bạn nên mua cái mới. Bạn sẽ đáp lại thế nào, và vì sao?",
+    "hint": "vẫn dùng tốt → tiết kiệm",
+    "model": "My phone still works, so I do not need a new one. I would rather save my money. Please respect my choice.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.2",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "still works",
+        "new one",
+        "save my money",
+        "respect"
+      ],
+      "frame": "My phone still …, so I do not need …. I would rather …. Please ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "works",
+        "a new one",
+        "save my money",
+        "respect my choice"
+      ]
+    }
+  },
+  {
+    "id": "U9-S07",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Accept helpful influence",
+    "english": "A friend with good English grades invites you to their study group. How would you respond, and why?",
+    "vietnamese": "Một người bạn có điểm tiếng Anh tốt mời bạn vào nhóm học của bạn ấy. Bạn sẽ đáp lại thế nào, và vì sao?",
+    "hint": "đồng ý → học cùng → tiến bộ",
+    "model": "Thank you. I would like to join because I want to improve my English. Studying together could help us practise and learn from each other.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.3",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "join",
+        "improve",
+        "English",
+        "Studying together",
+        "learn"
+      ],
+      "frame": "Thank you. I would like to … because …. Studying together could help us … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "join",
+        "I want to improve my English",
+        "practise",
+        "learn from each other"
+      ]
+    }
+  },
+  {
+    "id": "U9-S08",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Resist harmful pressure",
+    "english": "Your friend often skips classes and says you should do the same. How would you respond, and why?",
+    "vietnamese": "Bạn của bạn thường xuyên bỏ tiết và nói bạn cũng nên làm thế. Bạn sẽ đáp lại thế nào, và vì sao?",
+    "hint": "từ chối → bỏ lỡ bài → khuyên",
+    "model": "No, I want to attend my classes. Skipping them would make it harder to keep up. If something is wrong, we could talk to a teacher.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.4",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "attend",
+        "Skipping",
+        "keep up",
+        "teacher"
+      ],
+      "frame": "No, I want to …. Skipping them would make it harder to …. If …, we could ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "attend my classes",
+        "keep up",
+        "something is wrong",
+        "talk to a teacher"
+      ]
+    }
+  },
+  {
+    "id": "U9-S09",
+    "unitId": "U9",
+    "topic": "Experiencing peer pressure",
+    "goal": "Report a response",
+    "english": "Choose one of the peer-pressure situations and report your response and reasons.",
+    "vietnamese": "Hãy chọn một tình huống áp lực bạn bè và trình bày cách đáp lại cùng lý do.",
+    "hint": "tình huống → phản hồi → lý do",
+    "model": "I chose the situation about skipping a test. I would refuse to write a false letter because it is dishonest. I would offer to help my friend study instead.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 105,
+      "pdfPage": 107,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "skipping a test",
+        "refuse",
+        "false letter",
+        "dishonest",
+        "help"
+      ],
+      "frame": "I chose the situation about …. I would … because …. I would offer to … instead.",
+      "origin": "authored",
+      "frameAnswers": [
+        "skipping a test",
+        "refuse to write a false letter",
+        "it is dishonest",
+        "help my friend study"
+      ]
+    }
+  },
+  {
+    "id": "U10-S01",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Evaluate an action",
+    "english": "Does banning the hunting of wild animals help protect local biodiversity? Why?",
+    "vietnamese": "Việc cấm săn bắt động vật hoang dã có giúp bảo vệ đa dạng sinh học địa phương không? Vì sao?",
+    "hint": "ít săn bắt → bảo vệ loài",
+    "model": "Yes. It helps stop wild animals from being killed and gives their populations a chance to recover.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.1",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "wild animals",
+        "killed",
+        "populations",
+        "recover"
+      ],
+      "frame": "Yes. It helps … and gives … a chance to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "stop wild animals from being killed",
+        "their populations",
+        "recover"
+      ]
+    }
+  },
+  {
+    "id": "U10-S02",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Evaluate an action",
+    "english": "Does planting local trees, flowers and other plants help protect biodiversity? Why?",
+    "vietnamese": "Việc trồng cây, hoa và các loài thực vật địa phương có giúp bảo vệ đa dạng sinh học không? Vì sao?",
+    "hint": "bản địa → thức ăn → nơi ở",
+    "model": "Yes. Native plants provide food and shelter for local animals. They help support a healthy ecosystem.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.2",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Native plants",
+        "food",
+        "shelter",
+        "healthy ecosystem"
+      ],
+      "frame": "Yes. Native plants provide … for …. They help support ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "food and shelter",
+        "local animals",
+        "a healthy ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "U10-S03",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Evaluate an action",
+    "english": "Is promoting mass tourism a good way to protect local biodiversity? Why or why not?",
+    "vietnamese": "Thúc đẩy du lịch đại trà có phải là cách tốt để bảo vệ đa dạng sinh học địa phương không? Vì sao có hoặc không?",
+    "hint": "đông khách → rác → môi trường sống",
+    "model": "Not necessarily. Too many visitors can damage habitats and produce waste. Carefully managed tourism is a better choice.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.3",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "visitors",
+        "damage habitats",
+        "waste",
+        "managed tourism"
+      ],
+      "frame": "Not necessarily. Too many … can … and …. Carefully managed tourism is ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "visitors",
+        "damage habitats",
+        "produce waste",
+        "a better choice"
+      ]
+    }
+  },
+  {
+    "id": "U10-S04",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Explain education",
+    "english": "How can educating people about biodiversity help protect it?",
+    "vietnamese": "Việc giáo dục mọi người về đa dạng sinh học có thể giúp bảo vệ nó như thế nào?",
+    "hint": "hiểu → hành động có trách nhiệm",
+    "model": "People who understand biodiversity may make more responsible choices. They can avoid harming wildlife and help protect habitats.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.4",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "biodiversity",
+        "responsible choices",
+        "wildlife",
+        "habitats"
+      ],
+      "frame": "People who understand … may …. They can avoid … and help ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "biodiversity",
+        "make more responsible choices",
+        "harming wildlife",
+        "protect habitats"
+      ]
+    }
+  },
+  {
+    "id": "U10-S05",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Evaluate an action",
+    "english": "Does increasing your carbon footprint help protect biodiversity? Why or why not?",
+    "vietnamese": "Việc tăng dấu chân carbon của bạn có giúp bảo vệ đa dạng sinh học không? Vì sao có hoặc không?",
+    "hint": "phát thải → khí hậu → môi trường sống",
+    "model": "No. Higher emissions contribute to climate change, which can damage habitats. Reducing our carbon footprint is more helpful.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1.5",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "emissions",
+        "climate change",
+        "habitats",
+        "carbon footprint"
+      ],
+      "frame": "No. Higher emissions contribute to …, which can …. Reducing … is more helpful.",
+      "origin": "authored",
+      "frameAnswers": [
+        "climate change",
+        "damage habitats",
+        "our carbon footprint"
+      ]
+    }
+  },
+  {
+    "id": "U10-S06",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Propose actions",
+    "english": "Suggest two more ways to protect local biodiversity.",
+    "vietnamese": "Hãy đề xuất thêm hai cách bảo vệ đa dạng sinh học địa phương.",
+    "hint": "rác thải → môi trường sống",
+    "model": "We can organise local clean-ups and reduce plastic waste. We can also protect ponds and other natural habitats near our homes.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "1, extra ways",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "clean-ups",
+        "plastic waste",
+        "ponds",
+        "natural habitats"
+      ],
+      "frame": "We can … and …. We can also protect ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "organise local clean-ups",
+        "reduce plastic waste",
+        "ponds and other natural habitats near our homes"
+      ]
+    }
+  },
+  {
+    "id": "U10-S07",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Explain importance",
+    "english": "For planting native plants as a way to protect biodiversity, why is it important?",
+    "vietnamese": "Với việc trồng cây bản địa để bảo vệ đa dạng sinh học, vì sao việc này quan trọng?",
+    "hint": "thức ăn → nơi trú ẩn",
+    "model": "Native plants provide food and shelter for local species. Without them, some animals may struggle to survive.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2a",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Native plants",
+        "food",
+        "shelter",
+        "survive"
+      ],
+      "frame": "Native plants provide … for …. Without them, … may struggle to ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "food and shelter",
+        "local species",
+        "some animals",
+        "survive"
+      ]
+    }
+  },
+  {
+    "id": "U10-S08",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Explain an effect",
+    "english": "How will planting native plants help protect local biodiversity?",
+    "vietnamese": "Trồng cây bản địa sẽ giúp bảo vệ đa dạng sinh học địa phương như thế nào?",
+    "hint": "hỗ trợ côn trùng → chuỗi thức ăn",
+    "model": "Native plants support local insects and birds. This helps maintain food chains and a balanced ecosystem.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2b",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "Native plants",
+        "insects",
+        "birds",
+        "food chains",
+        "balanced ecosystem"
+      ],
+      "frame": "Native plants support …. This helps maintain … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "local insects and birds",
+        "food chains",
+        "a balanced ecosystem"
+      ]
+    }
+  },
+  {
+    "id": "U10-S09",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Describe your contribution",
+    "english": "What can you do to help plant native plants?",
+    "vietnamese": "Bạn có thể làm gì để giúp trồng cây bản địa?",
+    "hint": "tìm hiểu → trồng → chăm sóc",
+    "model": "I can find out which plants are native to my area. Then I can help plant and care for them with a local group.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "2c",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "native",
+        "area",
+        "plant",
+        "care"
+      ],
+      "frame": "I can find out …. Then I can help … with ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "which plants are native to my area",
+        "plant and care for them",
+        "a local group"
+      ]
+    }
+  },
+  {
+    "id": "U10-S10",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Respond and give reasons",
+    "english": "On a national-park trip, classmates want to collect rare insects or flowers. What would you say, and why?",
+    "vietnamese": "Trong chuyến đi vườn quốc gia, các bạn cùng lớp muốn thu thập côn trùng hoặc hoa quý hiếm. Bạn sẽ nói gì, và vì sao?",
+    "hint": "để nguyên → bảo tồn → chụp ảnh",
+    "model": "Please leave them where they are. Rare species need protection, and collecting them can harm the ecosystem. We can take photos instead.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.1",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "leave",
+        "protection",
+        "harm",
+        "photos"
+      ],
+      "frame": "Please …. Rare species need …, and … can …. We can … instead.",
+      "origin": "authored",
+      "frameAnswers": [
+        "leave them where they are",
+        "protection",
+        "collecting them",
+        "harm the ecosystem",
+        "take photos"
+      ]
+    }
+  },
+  {
+    "id": "U10-S11",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Respond and give reasons",
+    "english": "Classmates want to feed wild animals snacks in a national park. What would you say, and why?",
+    "vietnamese": "Các bạn cùng lớp muốn cho động vật hoang dã ăn đồ ăn vặt trong vườn quốc gia. Bạn sẽ nói gì, và vì sao?",
+    "hint": "không cho ăn → sức khỏe → thức ăn tự nhiên",
+    "model": "Please do not feed them. Human snacks may make them ill and change their natural behaviour. We should let them find their own food.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.2",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "do not feed",
+        "ill",
+        "natural behaviour",
+        "own food"
+      ],
+      "frame": "Please do not …. Human snacks may … and …. We should let ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "feed them",
+        "make them ill",
+        "change their natural behaviour",
+        "them find their own food"
+      ]
+    }
+  },
+  {
+    "id": "U10-S12",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Respond and give reasons",
+    "english": "You see classmates throwing bottles, paper and cans on the grass and in the water. What would you say, and why?",
+    "vietnamese": "Bạn thấy các bạn cùng lớp vứt chai, giấy và lon lên cỏ và xuống nước. Bạn sẽ nói gì, và vì sao?",
+    "hint": "nhặt rác → thùng → bảo vệ động vật",
+    "model": "Please pick up the rubbish and put it in a bin. It can pollute the water and harm animals. We should leave the park clean.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.3",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "pick up",
+        "rubbish",
+        "bin",
+        "water",
+        "animals",
+        "clean"
+      ],
+      "frame": "Please … and …. It can … and …. We should ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "pick up the rubbish",
+        "put it in a bin",
+        "pollute the water",
+        "harm animals",
+        "leave the park clean"
+      ]
+    }
+  },
+  {
+    "id": "U10-S13",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Respond and give reasons",
+    "english": "Classmates want to collect wood to build a fire in a national park. What would you say, and why?",
+    "vietnamese": "Các bạn cùng lớp muốn nhặt củi để đốt lửa trong vườn quốc gia. Bạn sẽ nói gì, và vì sao?",
+    "hint": "nguy cơ cháy → môi trường sống → nội quy",
+    "model": "Please do not build a fire here. It could spread and destroy habitats. We should follow the park's rules and ask a ranger for advice.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "3.4",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "do not build",
+        "fire",
+        "destroy habitats",
+        "rules",
+        "ranger"
+      ],
+      "frame": "Please do not …. It could … and …. We should … and ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "build a fire here",
+        "spread",
+        "destroy habitats",
+        "follow the park's rules",
+        "ask a ranger for advice"
+      ]
+    }
+  },
+  {
+    "id": "U10-S14",
+    "unitId": "U10",
+    "topic": "Ways to protect local biodiversity",
+    "goal": "Report a response",
+    "english": "Choose a national-park situation and present your response with reasons.",
+    "vietnamese": "Hãy chọn một tình huống ở vườn quốc gia và trình bày cách đáp lại cùng lý do.",
+    "hint": "chọn → lý do → giải pháp",
+    "model": "I chose the situation about feeding animals. I would ask my classmates not to feed them because snacks can harm their health. Watching from a safe distance is a better choice.",
+    "source": {
+      "book": "global-success-11-third-reprint",
+      "section": "IV Speaking",
+      "task": "4",
+      "printedPage": 114,
+      "pdfPage": 116,
+      "origin": "adapted",
+      "adaptation": "Reframed as a self-contained question for one learner; topic and task preserved."
+    },
+    "modelProvenance": {
+      "origin": "authored",
+      "note": "Original illustrative answer; not an official answer key."
+    },
+    "scaffold": {
+      "keywords": [
+        "feeding animals",
+        "not to feed",
+        "health",
+        "safe distance"
+      ],
+      "frame": "I chose the situation about …. I would ask … because …. Watching from … is ….",
+      "origin": "authored",
+      "frameAnswers": [
+        "feeding animals",
+        "my classmates not to feed them",
+        "snacks can harm their health",
+        "a safe distance",
+        "a better choice"
+      ]
+    }
+  }
+]

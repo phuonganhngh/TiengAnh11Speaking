@@ -1,0 +1,628 @@
+[
+  {
+    "id": "U1",
+    "number": 1,
+    "title": "A long and healthy life",
+    "topic": "Giving instructions for an exercise routine",
+    "printedPages": [
+      12,
+      13
+    ],
+    "pdfPages": [
+      14,
+      15
+    ],
+    "activities": [
+      {
+        "id": "U1-A1",
+        "task": "1",
+        "title": "Star jumps",
+        "titleOrigin": "authored",
+        "printedPages": [
+          12
+        ],
+        "pdfPages": [
+          14
+        ]
+      },
+      {
+        "id": "U1-A2",
+        "task": "2",
+        "title": "Start an exercise routine",
+        "titleOrigin": "authored",
+        "printedPages": [
+          13
+        ],
+        "pdfPages": [
+          15
+        ]
+      },
+      {
+        "id": "U1-A3",
+        "task": "3",
+        "title": "Finish an exercise routine",
+        "titleOrigin": "authored",
+        "printedPages": [
+          13
+        ],
+        "pdfPages": [
+          15
+        ]
+      },
+      {
+        "id": "U1-A4",
+        "task": "4",
+        "title": "Guide your listener",
+        "titleOrigin": "authored",
+        "printedPages": [
+          13
+        ],
+        "pdfPages": [
+          15
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U2",
+    "number": 2,
+    "title": "The generation gap",
+    "topic": "Talking about different generations",
+    "printedPages": [
+      22,
+      23
+    ],
+    "pdfPages": [
+      24,
+      25
+    ],
+    "activities": [
+      {
+        "id": "U2-A1",
+        "task": "1",
+        "title": "Start a family conversation",
+        "titleOrigin": "authored",
+        "printedPages": [
+          22
+        ],
+        "pdfPages": [
+          24
+        ]
+      },
+      {
+        "id": "U2-A2",
+        "task": "2",
+        "title": "Compare generations",
+        "titleOrigin": "authored",
+        "printedPages": [
+          23
+        ],
+        "pdfPages": [
+          25
+        ]
+      },
+      {
+        "id": "U2-A3",
+        "task": "3",
+        "title": "Discuss generation gaps",
+        "titleOrigin": "authored",
+        "printedPages": [
+          23
+        ],
+        "pdfPages": [
+          25
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U3",
+    "number": 3,
+    "title": "Cities of the future",
+    "topic": "Discussing cities of the future",
+    "printedPages": [
+      32,
+      33
+    ],
+    "pdfPages": [
+      34,
+      35
+    ],
+    "activities": [
+      {
+        "id": "U3-A1",
+        "task": "1",
+        "title": "Explore future-city features",
+        "titleOrigin": "authored",
+        "printedPages": [
+          32
+        ],
+        "pdfPages": [
+          34
+        ]
+      },
+      {
+        "id": "U3-A2",
+        "task": "2",
+        "title": "Discuss future transport",
+        "titleOrigin": "authored",
+        "printedPages": [
+          33
+        ],
+        "pdfPages": [
+          35
+        ]
+      },
+      {
+        "id": "U3-A3",
+        "task": "3",
+        "title": "Keep the conversation going",
+        "titleOrigin": "authored",
+        "printedPages": [
+          33
+        ],
+        "pdfPages": [
+          35
+        ]
+      },
+      {
+        "id": "U3-A4",
+        "task": "4",
+        "title": "Present your future city",
+        "titleOrigin": "authored",
+        "printedPages": [
+          33
+        ],
+        "pdfPages": [
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U4",
+    "number": 4,
+    "title": "ASEAN and Viet Nam",
+    "topic": "Discussing necessary qualifications for joining a programme",
+    "printedPages": [
+      46,
+      47
+    ],
+    "pdfPages": [
+      48,
+      49
+    ],
+    "activities": [
+      {
+        "id": "U4-A1",
+        "task": "1",
+        "title": "Explore skills and experience",
+        "titleOrigin": "authored",
+        "printedPages": [
+          46
+        ],
+        "pdfPages": [
+          48
+        ]
+      },
+      {
+        "id": "U4-A2",
+        "task": "2",
+        "title": "Give and explain an opinion",
+        "titleOrigin": "authored",
+        "printedPages": [
+          46
+        ],
+        "pdfPages": [
+          48
+        ]
+      },
+      {
+        "id": "U4-A3",
+        "task": "3",
+        "title": "Discuss the most important skill",
+        "titleOrigin": "authored",
+        "printedPages": [
+          47
+        ],
+        "pdfPages": [
+          49
+        ]
+      },
+      {
+        "id": "U4-A4",
+        "task": "4",
+        "title": "Rank programme qualifications",
+        "titleOrigin": "authored",
+        "printedPages": [
+          47
+        ],
+        "pdfPages": [
+          49
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U5",
+    "number": 5,
+    "title": "Global warming",
+    "topic": "Human activities and global warming",
+    "printedPages": [
+      56,
+      57
+    ],
+    "pdfPages": [
+      58,
+      59
+    ],
+    "activities": [
+      {
+        "id": "U5-A1",
+        "task": "1",
+        "title": "Connect activities and effects",
+        "titleOrigin": "authored",
+        "printedPages": [
+          56
+        ],
+        "pdfPages": [
+          58
+        ]
+      },
+      {
+        "id": "U5-A2",
+        "task": "2",
+        "title": "Explain a main cause",
+        "titleOrigin": "authored",
+        "printedPages": [
+          57
+        ],
+        "pdfPages": [
+          59
+        ]
+      },
+      {
+        "id": "U5-A3",
+        "task": "3",
+        "title": "Discuss other human activities",
+        "titleOrigin": "authored",
+        "printedPages": [
+          57
+        ],
+        "pdfPages": [
+          59
+        ]
+      },
+      {
+        "id": "U5-A4",
+        "task": "4",
+        "title": "Compare causes of warming",
+        "titleOrigin": "authored",
+        "printedPages": [
+          57
+        ],
+        "pdfPages": [
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U6",
+    "number": 6,
+    "title": "Preserving our heritage",
+    "topic": "Preserving cultural heritage",
+    "printedPages": [
+      70,
+      71
+    ],
+    "pdfPages": [
+      72,
+      73
+    ],
+    "activities": [
+      {
+        "id": "U6-A1",
+        "task": "1",
+        "title": "Explore ways to preserve heritage",
+        "titleOrigin": "authored",
+        "printedPages": [
+          70
+        ],
+        "pdfPages": [
+          72
+        ]
+      },
+      {
+        "id": "U6-A2",
+        "task": "2",
+        "title": "Discuss the best approach",
+        "titleOrigin": "authored",
+        "printedPages": [
+          70
+        ],
+        "pdfPages": [
+          72
+        ]
+      },
+      {
+        "id": "U6-A3",
+        "task": "3",
+        "title": "Suggest and respond",
+        "titleOrigin": "authored",
+        "printedPages": [
+          71
+        ],
+        "pdfPages": [
+          73
+        ]
+      },
+      {
+        "id": "U6-A4",
+        "task": "4",
+        "title": "Plan to preserve a tradition",
+        "titleOrigin": "authored",
+        "printedPages": [
+          71
+        ],
+        "pdfPages": [
+          73
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U7",
+    "number": 7,
+    "title": "Education options for school-leavers",
+    "topic": "Vocational training vs academic study",
+    "printedPages": [
+      80,
+      81
+    ],
+    "pdfPages": [
+      82,
+      83
+    ],
+    "activities": [
+      {
+        "id": "U7-A1",
+        "task": "1",
+        "title": "Compare study benefits",
+        "titleOrigin": "authored",
+        "printedPages": [
+          80
+        ],
+        "pdfPages": [
+          82
+        ]
+      },
+      {
+        "id": "U7-A2",
+        "task": "2",
+        "title": "Discuss vocational training",
+        "titleOrigin": "authored",
+        "printedPages": [
+          80
+        ],
+        "pdfPages": [
+          82
+        ]
+      },
+      {
+        "id": "U7-A3",
+        "task": "3",
+        "title": "Discuss academic study",
+        "titleOrigin": "authored",
+        "printedPages": [
+          81
+        ],
+        "pdfPages": [
+          83
+        ]
+      },
+      {
+        "id": "U7-A4",
+        "task": "4",
+        "title": "Choose a suitable study option",
+        "titleOrigin": "authored",
+        "printedPages": [
+          81
+        ],
+        "pdfPages": [
+          83
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U8",
+    "number": 8,
+    "title": "Becoming independent",
+    "topic": "Learning basic life skills",
+    "printedPages": [
+      90,
+      91
+    ],
+    "pdfPages": [
+      92,
+      93
+    ],
+    "activities": [
+      {
+        "id": "U8-A1",
+        "task": "1",
+        "title": "Talk about laundry steps",
+        "titleOrigin": "authored",
+        "printedPages": [
+          90
+        ],
+        "pdfPages": [
+          92
+        ]
+      },
+      {
+        "id": "U8-A2",
+        "task": "2",
+        "title": "Give laundry instructions",
+        "titleOrigin": "authored",
+        "printedPages": [
+          90
+        ],
+        "pdfPages": [
+          92
+        ]
+      },
+      {
+        "id": "U8-A3",
+        "task": "3",
+        "title": "Explain how to cook rice",
+        "titleOrigin": "authored",
+        "printedPages": [
+          91
+        ],
+        "pdfPages": [
+          93
+        ]
+      },
+      {
+        "id": "U8-A4",
+        "task": "4",
+        "title": "Add cooking tips",
+        "titleOrigin": "authored",
+        "printedPages": [
+          91
+        ],
+        "pdfPages": [
+          93
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U9",
+    "number": 9,
+    "title": "Social issues",
+    "topic": "Experiencing peer pressure",
+    "printedPages": [
+      104,
+      105
+    ],
+    "pdfPages": [
+      106,
+      107
+    ],
+    "activities": [
+      {
+        "id": "U9-A1",
+        "task": "1",
+        "title": "Rank peer pressures",
+        "titleOrigin": "authored",
+        "printedPages": [
+          104
+        ],
+        "pdfPages": [
+          106
+        ]
+      },
+      {
+        "id": "U9-A2",
+        "task": "2",
+        "title": "Discuss personal experiences",
+        "titleOrigin": "authored",
+        "printedPages": [
+          105
+        ],
+        "pdfPages": [
+          107
+        ]
+      },
+      {
+        "id": "U9-A3",
+        "task": "3",
+        "title": "Respond to peer pressure",
+        "titleOrigin": "authored",
+        "printedPages": [
+          105
+        ],
+        "pdfPages": [
+          107
+        ]
+      },
+      {
+        "id": "U9-A4",
+        "task": "4",
+        "title": "Report your response",
+        "titleOrigin": "authored",
+        "printedPages": [
+          105
+        ],
+        "pdfPages": [
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "id": "U10",
+    "number": 10,
+    "title": "The ecosystem",
+    "topic": "Ways to protect local biodiversity",
+    "printedPages": [
+      114
+    ],
+    "pdfPages": [
+      116
+    ],
+    "activities": [
+      {
+        "id": "U10-A1",
+        "task": "1",
+        "title": "Evaluate protective actions",
+        "titleOrigin": "authored",
+        "printedPages": [
+          114
+        ],
+        "pdfPages": [
+          116
+        ]
+      },
+      {
+        "id": "U10-A2",
+        "task": "2",
+        "title": "Explain a local action",
+        "titleOrigin": "authored",
+        "printedPages": [
+          114
+        ],
+        "pdfPages": [
+          116
+        ]
+      },
+      {
+        "id": "U10-A3",
+        "task": "3",
+        "title": "Respond to park situations",
+        "titleOrigin": "authored",
+        "printedPages": [
+          114
+        ],
+        "pdfPages": [
+          116
+        ]
+      },
+      {
+        "id": "U10-A4",
+        "task": "4",
+        "title": "Present your response",
+        "titleOrigin": "authored",
+        "printedPages": [
+          114
+        ],
+        "pdfPages": [
+          116
+        ]
+      }
+    ]
+  }
+]

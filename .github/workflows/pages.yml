@@ -1,0 +1,51 @@
+name: Validate and deploy Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm test
+      - run: npm run build
+      - run: git diff --exit-code -- index.html
+      - run: python -m pip install playwright==1.62.0
+      - run: python -m playwright install --with-deps chromium
+      - name: Browser checks
+        run: |
+          mkdir -p .test-results
+          python -m http.server 8000 --bind 127.0.0.1 > .test-results/server.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          python tests/browser_test.py
+      - name: Prepare one-file site
+        run: |
+          mkdir -p .test-results/site
+          cp index.html .test-results/site/index.html
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .test-results/site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
